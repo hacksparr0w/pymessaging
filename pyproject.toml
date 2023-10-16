@@ -5,9 +5,6 @@ description = "Building blocks for event-driven message-processing applications"
 authors = ["hacksparr0w <hacksparr0w@protonmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [
-    { include = "messaging" }
-]
 
 [tool.poetry.dependencies]
 python = "^3.11"

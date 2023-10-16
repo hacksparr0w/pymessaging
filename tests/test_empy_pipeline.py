@@ -1,6 +1,6 @@
 import pytest
 
-from messaging import Message, Pipeline, PipelineDirection
+from pymessaging import Message, Pipeline, PipelineDirection
 
 
 def test_empty_pipeline():
